@@ -41,7 +41,6 @@ O objetivo do curso é desenvolver o raciocínio lógico aplicado à programaç�
 ## 💻 Tecnologias Utilizadas
 - [Python 3](https://www.python.org/) 🐍
 - [Java](https://www.java.com/) ☕
-- IDEs: VS Code, Eclipse e/ou IntelliJ IDEA
 
 ---
 
